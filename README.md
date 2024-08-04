@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/5ec20e4f-3689-40c4-a477-5e30bda5d705">
+  <img src="https://github.com/user-attachments/assets/155aea81-fdf6-43f8-bd66-0e1325e2ab7f">
   <h1>PubCafe Design</h1>
 </div>
 
